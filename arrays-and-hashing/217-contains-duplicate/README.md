@@ -19,7 +19,6 @@ Given an integer array `nums`, return `true` if any value appears **at least twi
     Output: true
 <br />
 <br />
-<br />
 
 ### **Constraints:**
 - `1 <= nums.length <= 105`
